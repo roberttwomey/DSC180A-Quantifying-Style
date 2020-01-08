@@ -1,6 +1,6 @@
 # DSC180A-Quantifying-Style
 
-How can we use image analysis and visual feature extraction to meaningfully quantify and describe works of art?
+How can we use image analysis and visual feature extraction to meaningfully describe works of art?
 
 ## Schedule
 
