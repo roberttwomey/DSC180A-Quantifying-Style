@@ -1,17 +1,17 @@
 # DSC180A-Quantifying-Style
 
-Can we use visual analysis to meaningfully quantify the evolution of artistic style? 
+How can we use image analysis and visual feature extraction to meaningfully quantify and describe works of art?
 
 ## Schedule
 
 |Week|Topic|
 |--|--|
 |1|[Introduction](01-Introduction.md)|
-|2|Domain Background and Data|
-|3|Domain Bkacground and Data II|
-|4|Domain Specific Technique|
-|5|Domain Specific Techniques II|
-|6|Discussion of Main Result|
+|2|Cultural Analytics - Background and Data|
+|3|Scraping Cultural Archives - Domain Bakcground and Data II|
+|4|Basics of Image Analysis - Domain Specific Technique|
+|5|Feature Extractors, Clustering, Visualization- Domain Specific Techniques II|
+|6|Evolution of Abstraction in Mondrian - Discussion of Main Result|
 |7|Evaluation of Main Result|
 |8|Impacts and Ethics|
 |9|Work on Proposals|
@@ -20,7 +20,7 @@ Can we use visual analysis to meaningfully quantify the evolution of artistic st
 ## Introduction
 
 * Tags: cultural analytics, artistic style, visual culture, quantifying culture
-* Data: artistic oeuvre, digital images, bibliogaphic data
+* Data: complete works (catalogue raisonne), digital images, bibliographic data
 * Methods: image processing, feature extraction, clustering, visualization
 
 Artists’ work is often described in terms of distinct phases clustering 
@@ -38,7 +38,6 @@ art, with potential extension to broad categories of contemporary
 cultural image production. 
 
 ## Background
-
 
 The current state of law enforcement in the United States is the
 result of a long history, heavily influenced by the legacy of slavery,
@@ -71,7 +70,9 @@ United States.
 ### Possible Projects
 
 * A comparative study of portraiture (head pose, gaze, and facial location within composition) in historic artist A and contemporary medium B.
-* Quantifying Mark Rothko (square footage of paintings produced), or more interestingly visualizing compositional structure, color choice, price/cost at auction, etc.
+* Quantifying Mark Rothko's work for instance visualizing compositional structure, color choice, price/cost at auction, etc.
 * Understanding cities through their inhabitant’s social media posts (Instagram Cities by Manovich et al. http://phototrails.net/instagram-cities/)
 * Extend your visualization to the VROOM tiled display or CAVE at QI.
+* Apply similar cultural analytic methods to another creative domain (music, writing, etc.)
+
 
