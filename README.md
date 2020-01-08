@@ -39,33 +39,20 @@ cultural image production.
 
 ## Background
 
-The current state of law enforcement in the United States is the
-result of a long history, heavily influenced by the legacy of slavery,
-the rise of the automobile, and the war on crime. Some of this history
-is covered in the following references:
-
-* [Suspect Citizens: What 20 Million Traffic Stops Tell Us About
-  Policing and Race](https://www.amazon.com/dp/B07BNP1QS6/) by [Frank R. Baumgartner](https://fbaum.unc.edu/), Derek A. Epp, Kelsey Shoub
-* [Policing the Open Road: How Cars Transformed American
-  Freedom](https://www.amazon.com/Policing-Open-Road-Transformed-American-ebook/dp/B07QGB1QCF)
-  by [Sarah A. Seo](https://law.uiowa.edu/sarah-seo)
+* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), by Lev Manovich[http://manovich.net/], 2015. or [many other good papers](http://manovich.net/index.php/projects/tag:Article).
+* [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf), by Clement Greenberg, 1955.
   
-We will recreate a quantification of Mondrian’s shift to abstraction, following this approach.
-This is an example of “Cultural Analytics” (Manovich). See for instance ‘Data Science and Computational Art History’ (pdf) June 2015, or many other good papers.
-What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in ‘American Type Painting’ from 1955. (pdf)
-We will use basic image processing, visual feature extraction, and dimensional reduction/visualization techniques described below.
-
-
 ## Data
 
-Open data on traffic stops exist in cities and states throughout the
-United States. 
-
-* The project will primarily use [San Diego traffic stops data](https://data.sandiego.gov/datasets/police-vehicle-stops/).
-* Stanford open policing has [cleaned traffic stops
-  data](https://openpolicing.stanford.edu/data/) collected from across
-  the country. This is a good reference source, but use the original
-  source when possible.
+Many museums and cultural centers have digital collections of paintings and other work online. We will be working primarily with:
+* Piet Mondrian's work in the [artnome database](https://knownwork.knack.com/artnome#artworks-piet-mondrian/) (Primary Source)
+* Piet Mondrian's [Catalogue Raisonne](http://pietmondrian.rkdmonographs.nl/)
+* [San Diego Museum of Art Collections](https://www.sdmart.org/collections/) 
+  online collection for local museum, SDMA, possible alternate data set for
+  project extension.
+* [ArtStor](https://www.artstor.org/) large commercial art database available
+  through UCSD.
+* [Instagram](https://www.instagram.com/) contemporary visual social media.
 
 ### Possible Projects
 
