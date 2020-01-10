@@ -25,9 +25,7 @@ __Methods__: image processing, feature extraction, clustering, visualization
 
 ## Introduction
 
-
-
-Artists’ work is often described in terms of distinct phases clustering 
+Art works are often described in terms of distinct phases clustering 
 thematic and aesthetic approaches (for instance Picasso’s Blue Period), 
 and art historians narrate the evolution of individual style (for 
 instance Mondrian’s passage from representational landscapes to pure 
@@ -41,29 +39,12 @@ This project starts with the analysis of historical works of fine
 art, with potential extension to broad categories of contemporary 
 cultural image production. 
 
-## Background
-
-* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), by Lev Manovich[http://manovich.net/], 2015. or [many other good papers](http://manovich.net/index.php/projects/tag:Article).
-* [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf), by Clement Greenberg, 1955.
-  
-## Data
-
-Many museums and cultural centers have digital collections of paintings and other work online. We will be working primarily with:
-* Piet Mondrian's work in the [artnome database](https://knownwork.knack.com/artnome#artworks-piet-mondrian/) (Primary Source)
-* Piet Mondrian's [Catalogue Raisonne](http://pietmondrian.rkdmonographs.nl/)
-* [San Diego Museum of Art Collections](https://www.sdmart.org/collections/) 
-  online collection for local museum, SDMA, possible alternate data set for
-  project extension.
-* [ArtStor](https://www.artstor.org/) large commercial art database available
-  through UCSD.
-* [Instagram](https://www.instagram.com/) contemporary visual social media.
-
-### Possible Projects
-
-* A comparative study of portraiture (head pose, gaze, and facial location within composition) in historic artist A and contemporary medium B.
-* Quantifying Mark Rothko's work for instance visualizing compositional structure, color choice, price/cost at auction, etc.
-* Understanding cities through their inhabitant’s social media posts (Instagram Cities by Manovich et al. http://phototrails.net/instagram-cities/)
-* Extend your visualization to the VROOM tiled display or CAVE at QI.
-* Apply similar cultural analytic methods to another creative domain (music, writing, etc.)
+## Domain Hours (to replace Friday hours; begins wk 2)
+* Thurday: 10-11 AM
+* Another hour TBA
+* Location: Atkinson Hall 1611 (Clarke Center Lab)
+  * enter on the ground floor, walk past the elevator, continue 
+    past the design lab, follow the red floor all the way to the
+    back, second to last door on the left.
 
 
