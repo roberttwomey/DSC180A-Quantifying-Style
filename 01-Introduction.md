@@ -40,7 +40,9 @@ Optional:
 
 ### Topics for Discussion
 
-Please respond to the folowing questions through this google form: [https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9). This will record your e-mail address for discussion participation grades.
+Please respond to the folowing questions through this google form: [https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9)
+
+This will record your e-mail address for discussion participation grades.
 
 * What are the quantities and image statistics used to measure and 
   describe Mondrian’s work in Bailey’s project? In Manovich’s project? 
