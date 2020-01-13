@@ -24,11 +24,15 @@ How can we use image analysis and visual feature extraction to
 
 ### Reading
 
+Required:
+
 * [Quantifying Abstraction In Art: Mondrian](https://www.artnome.com/news/2018/4/11/quantifying-modrian-journey-to-abstraction), Jason Bailey, Artnome, 2018,  
 
 * [Mondrian vs Rothko: footprints and evolution in style space](http://lab.softwarestudies.com/2011/06/mondrian-vs-rothko-footprints-and.html), Lev Manovich et. al, Software Studies Lab, 2011
 
 * [Reply to Mondrian vs Rothko: footprints and evolution in style space](https://web.archive.org/web/20120717071426/http://iwasnteventhere.tumblr.com/post/7882377942/reply-to-mondrian-vs-rothko-footprints-and-evolution), Ryan Anderson, Tumblr via wayback machine, 
+
+Optional: 
 
 * [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015, or [many other good papers](http://manovich.net/index.php/projects/tag:Article
 
@@ -36,8 +40,7 @@ How can we use image analysis and visual feature extraction to
 
 ### Topics for Discussion
 
-These questions approach topics that we will spend the majority of the
-quarter answering! These are merely to set context!
+Please respond to the folowing questions through this google form: [https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9). This will record your e-mail address for discussion participation grades.
 
 * What are the quantities and image statistics used to measure and 
   describe Mondrian’s work in Bailey’s project? In Manovich’s project? 
@@ -50,6 +53,10 @@ quarter answering! These are merely to set context!
 
 * What other visual/cultural data sets would be interested to analyze this way?
 
+These questions approach topics that we will spend the majority of the
+quarter answering! These are merely to set context!
+
+**Note**: Your responses are due by Tuesday night, 1/14, 11:59pm. 
 
 ### Reference
 
