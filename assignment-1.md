@@ -48,7 +48,7 @@ of data reliability.
 The material in this section should be informed by the listed
 background readings and the introduction/data explanation sections of
 the Mondrian blog post. Manovich, Carey, and Wang's 
-[http://lab.softwarestudies.com/2011/06/mondrian-vs-rothko-footprints-and.html](Mondrian vs. Rothko) 
+[Mondrian vs. Rothko](http://lab.softwarestudies.com/2011/06/mondrian-vs-rothko-footprints-and.html) 
 paper is a valuable second key reference, though the image features are
 slightly more simplistic.
 
