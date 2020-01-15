@@ -27,8 +27,10 @@ Quantifying Abstraction in Art, referring to the
 for specifics and to assigned articles for context.
 
 The data you will use in the replication consist of:
-1. Images of Mondrian paintings from the Artnome website, Mondrian catalogue
-   raisonné website, or other online sources that *you* will collect.
+1. Images of Mondrian paintings from the 
+  ([Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/) website, 
+   Mondrian [Catalogue Raisonné](http://pietmondrian.rkdmonographs.nl/) or other),
+   or other online source ([ArtStor](https://www.artstor.org/)) that *you* will collect.
 2. Metadata for collected images including title, date, dimensions.
 
 Address the appropriateness of the data design and collection:
