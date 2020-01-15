@@ -23,8 +23,8 @@ programming assignment.
 Introduce the problem being investigated and describe the data being 
 used to approach the problem. That is, describe the problem of 
 Quantifying Abstraction in Art, referring to the 
-[Mondrian](https://www.artnome.com/news/2018/4/11/quantifying-modrian-journey-to-abstraction)
-post for specifics and to assigned articles for context.
+[Mondrian post](https://www.artnome.com/news/2018/4/11/quantifying-modrian-journey-to-abstraction)
+for specifics and to assigned articles for context.
 
 The data you will use in the replication consist of:
 1. Images of Mondrian paintings from the Artnome website, Mondrian catalogue
@@ -73,8 +73,11 @@ pipeline for the result-replication project. The pipeline should:
 -   Write code that creates a list of Mondrian paintings that will
     provide the basis for our time series of art style.
     
--   Given a painting on one of the online collections, download the 
-    image and accompanying key bibliographic/authorship information. 
+-   Given a painting on one of the online collections 
+    ([Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/), 
+    [Catalogue Raisonné](http://pietmondrian.rkdmonographs.nl/) or other),
+    download a full resolution image and accompanying 
+    bibliographic/authorship information. 
     
 -   Given a directory containing images and metadata, organize it
     on disk (justify your processing in part 2). The data source 
