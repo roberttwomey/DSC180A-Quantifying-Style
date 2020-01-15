@@ -1,5 +1,9 @@
 # Week 1: Introduction to Domain/Problem
 
+## Slides
+
+* Today's slides: [dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
+
 ## Topics
 How can we use image analysis and visual feature extraction to
   meaningfully describe works of art?
@@ -38,11 +42,7 @@ Optional:
 
 * What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955.
 
-### Topics for Discussion
-
-Please respond to the folowing questions through this google form: [https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9)
-
-This will record your e-mail address for discussion participation grades.
+### Discussion Questions
 
 * What are the quantities and image statistics used to measure and 
   describe Mondrian’s work in Bailey’s project? In Manovich’s project? 
@@ -58,8 +58,12 @@ This will record your e-mail address for discussion participation grades.
 These questions approach topics that we will spend the majority of the
 quarter answering! These are merely to set context!
 
-**Note**: Your responses are due by Tuesday night, 1/14, 11:59pm. 
+### Discussion Question Responses: 
 
-### Reference
+[https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9)
 
-* Today's slides: [dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
+Due Tuesday 1/14, 11:59pm. 
+
+This will record your e-mail address for discussion participation grades.
+
+
