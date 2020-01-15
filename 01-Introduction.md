@@ -1,8 +1,8 @@
 # Week 1: Introduction to Domain/Problem
 
-## Slides
+## Today's Slides
 
-* Today's slides: [dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
+[dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
 
 ## Topics
 How can we use image analysis and visual feature extraction to
