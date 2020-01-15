@@ -50,7 +50,7 @@ cultural image production.
 * [Assignment 1 - The Data](assignment-1.md)  (Due Date: Jan 24th, 11:59 PM)
 
 ## The Data
-* The [Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/ website
+* The [Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/) website
 * Mondrian [Catalogue Raisonné](http://pietmondrian.rkdmonographs.nl/)
 * Other online art databases: 
   * [ArtStor](https://www.artstor.org/)
