@@ -36,12 +36,6 @@ Required:
 
 * [Reply to Mondrian vs Rothko: footprints and evolution in style space](https://web.archive.org/web/20120717071426/http://iwasnteventhere.tumblr.com/post/7882377942/reply-to-mondrian-vs-rothko-footprints-and-evolution), Ryan Anderson, Tumblr via wayback machine, 
 
-Optional: 
-
-* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015, or [many other good papers](http://manovich.net/index.php/projects/tag:Article
-
-* What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955.
-
 ### Discussion Questions
 
 * What are the quantities and image statistics used to measure and 
