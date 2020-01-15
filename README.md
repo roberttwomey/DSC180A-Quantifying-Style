@@ -18,6 +18,14 @@ How can we use image analysis and visual feature extraction to meaningfully desc
 |9|Work on Proposals|
 |10|Elevator Pitch|
 
+## Domain Hours (to replace Friday hours; begins wk 2)
+* Thurday: 10-11 AM
+* Another hour TBA
+* Location: Atkinson Hall 1611 (Clarke Center Lab)
+  * enter on the ground floor, walk past the elevator, continue 
+    past the design lab, follow the red floor all the way to the
+    back, second to last door on the left.
+    
 ## Introduction
 
 * Tags: cultural analytics, artistic style, visual culture, quantifying culture
@@ -38,16 +46,6 @@ This project starts with the analysis of historical works of fine
 art, with potential extension to broad categories of contemporary 
 cultural image production. 
 
-## Domain Hours (to replace Friday hours; begins wk 2)
-* Thurday: 10-11 AM
-* Another hour TBA
-* Location: Atkinson Hall 1611 (Clarke Center Lab)
-  * enter on the ground floor, walk past the elevator, continue 
-    past the design lab, follow the red floor all the way to the
-    back, second to last door on the left.
-
-## Assignments
-* [Assignment 1 - The Data](assignment-1.md)  (Due Date: Jan 24th, 11:59 PM)
 
 ## The Data
 * The [Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/) website
@@ -55,5 +53,9 @@ cultural image production.
 * Other online art databases: 
   * [ArtStor](https://www.artstor.org/)
   * [WikiArt](https://www.wikiart.org/)
+
+## Assignments
+* [Assignment 1 - The Data](assignment-1.md)  (Due Jan 24th, 11:59 PM)
+
   
    
