@@ -47,10 +47,10 @@ art, with potential extension to broad categories of contemporary
 cultural image production. 
 
 
-## The Data
+## Data
 * The [Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/) website
 * Mondrian [Catalogue Raisonné](http://pietmondrian.rkdmonographs.nl/)
-* Other online art databases: 
+* Other online art databases (not verified): 
   * [ArtStor](https://www.artstor.org/)
   * [WikiArt](https://www.wikiart.org/)
 
