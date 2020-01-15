@@ -7,7 +7,7 @@
 
 [many other good papers](http://manovich.net/index.php/projects/tag:Article
 
-* Skim What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955.
+* For background on what is abstraction in art, skim Clement Greenberg's [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955, articulating an influential theory of medium-specific abstraction.
 
 ### Discussion Questions
 
