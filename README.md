@@ -14,7 +14,7 @@ __Methods__: image processing, feature extraction, clustering, visualization
 |--|--|
 |1|[Introduction](01-Introduction.md)|
 |2|[Cultural Analytics - Background and Data](02-Cultural_Analytics.md)|
-|3|Scraping Cultural Archives - Domain Bakcground and Data II|
+|3|Scraping Cultural Archives - Domain Background and Data II|
 |4|Basics of Image Analysis - Domain Specific Technique|
 |5|Feature Extractors, Clustering, Visualization- Domain Specific Techniques II|
 |6|Evolution of Abstraction in Mondrian - Discussion of Main Result|
