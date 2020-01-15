@@ -1,4 +1,4 @@
-# Week 1: Cultural Analytics - Background and Data
+# Week 2: Cultural Analytics - Background and Data
 
 ## Assigned Readings
 
@@ -7,7 +7,7 @@
 
 ### Discussion Questions
 
-* tk
+* tk, check back in after Discussion Section.
 
 ### Discussion Question Responses: 
 
@@ -16,5 +16,3 @@
 Due Tuesday 1/28, 11:59pm. 
 
 This will record your e-mail address for discussion participation grades.
-
-
