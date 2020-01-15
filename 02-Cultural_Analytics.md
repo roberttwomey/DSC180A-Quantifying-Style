@@ -2,9 +2,12 @@
 
 ## Assigned Readings
 
-* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015, or [many other good papers](http://manovich.net/index.php/projects/tag:Article
+* [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf), Lev Manovich, 2015. 
+* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015.
 
-* What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955.
+[many other good papers](http://manovich.net/index.php/projects/tag:Article
+
+* Skim What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955.
 
 ### Discussion Questions
 
