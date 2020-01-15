@@ -48,5 +48,5 @@ cultural image production.
     back, second to last door on the left.
 
 ## Assignments
-* [Assignment 1](assignment-1.md) The Data (Due Date: Jan 24th, 11:59 PM)
+* [Assignment 1 - The Data](assignment-1.md)  (Due Date: Jan 24th, 11:59 PM)
 
