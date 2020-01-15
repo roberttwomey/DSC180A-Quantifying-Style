@@ -28,8 +28,6 @@ How can we use image analysis and visual feature extraction to
 
 ### Reading
 
-Required:
-
 * [Quantifying Abstraction In Art: Mondrian](https://www.artnome.com/news/2018/4/11/quantifying-modrian-journey-to-abstraction), Jason Bailey, Artnome, 2018,  
 
 * [Mondrian vs Rothko: footprints and evolution in style space](http://lab.softwarestudies.com/2011/06/mondrian-vs-rothko-footprints-and.html), Lev Manovich et. al, Software Studies Lab, 2011
