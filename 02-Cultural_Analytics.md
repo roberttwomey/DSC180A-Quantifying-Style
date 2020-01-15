@@ -28,13 +28,9 @@ How can we use image analysis and visual feature extraction to
 
 ### Reading
 
-Required:
+* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015, or [many other good papers](http://manovich.net/index.php/projects/tag:Article
 
-* [Quantifying Abstraction In Art: Mondrian](https://www.artnome.com/news/2018/4/11/quantifying-modrian-journey-to-abstraction), Jason Bailey, Artnome, 2018,  
-
-* [Mondrian vs Rothko: footprints and evolution in style space](http://lab.softwarestudies.com/2011/06/mondrian-vs-rothko-footprints-and.html), Lev Manovich et. al, Software Studies Lab, 2011
-
-* [Reply to Mondrian vs Rothko: footprints and evolution in style space](https://web.archive.org/web/20120717071426/http://iwasnteventhere.tumblr.com/post/7882377942/reply-to-mondrian-vs-rothko-footprints-and-evolution), Ryan Anderson, Tumblr via wayback machine, 
+* What is abstraction in art? Clement Greenberg articulated an influential theory of medium-specific abstraction in [American Type Painting](https://monoskop.org/images/c/ce/Greenberg_Clement_1955_1961_American-Type_Painting.pdf) from 1955.
 
 ### Discussion Questions
 
