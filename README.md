@@ -2,11 +2,6 @@
 
 How can we use image analysis and visual feature extraction to meaningfully describe works of art?
 
-__Tags__: cultural analytics, artistic style, visual culture, quantifying culture
-
-__Data__: works of art! for instance the complete works of Mondrian(catalogue raisonne), digital images, bibliographic data
-
-__Methods__: image processing, feature extraction, clustering, visualization
 
 ## Schedule
 
@@ -24,6 +19,10 @@ __Methods__: image processing, feature extraction, clustering, visualization
 |10|Elevator Pitch|
 
 ## Introduction
+
+* Tags: cultural analytics, artistic style, visual culture, quantifying culture
+* Data: works of art! for instance the complete works of Mondrian(catalogue raisonne), digital images, bibliographic data
+* Methods: image processing, feature extraction, clustering, visualization
 
 Art works are often described in terms of distinct phases clustering 
 thematic and aesthetic approaches (for instance Picasso’s Blue Period), 
@@ -50,3 +49,11 @@ cultural image production.
 ## Assignments
 * [Assignment 1 - The Data](assignment-1.md)  (Due Date: Jan 24th, 11:59 PM)
 
+## The Data
+* The [Artnome](https://knownwork.knack.com/artnome#artworks-piet-mondrian/ website
+* Mondrian [Catalogue Raisonné](http://pietmondrian.rkdmonographs.nl/)
+* Other online art databases: 
+  * [ArtStor](https://www.artstor.org/)
+  * [WikiArt](https://www.wikiart.org/)
+  
+   
