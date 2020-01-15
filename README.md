@@ -47,4 +47,6 @@ cultural image production.
     past the design lab, follow the red floor all the way to the
     back, second to last door on the left.
 
+## Assignments
+* [Assignment 1](assignment-1.md) The Data (Due Date: Jan 24th, 11:59 PM)
 
