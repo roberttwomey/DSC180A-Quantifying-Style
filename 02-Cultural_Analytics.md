@@ -7,11 +7,7 @@
 
 ### Discussion Questions
 
-* tk, check back in after Discussion Section.
-
-### Discussion Question Responses: 
-
-[https://forms.gle/KutZTJnXWTYv1VFn9](https://forms.gle/KutZTJnXWTYv1VFn9)
+Please answer the discussion questions on this google form:[https://forms.gle/KutZTJnXWTYv1VFn9](https://forms.gle/KutZTJnXWTYv1VFn9)
 
 Due Tuesday 1/28, 11:59pm. 
 
