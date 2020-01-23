@@ -19,9 +19,11 @@ How can we use image analysis and visual feature extraction to meaningfully desc
 |10|Elevator Pitch|
 
 ## Domain Hours (to replace Friday hours; begins wk 2)
-* Thurday: 10-11 AM
-* Another hour TBA
-* Location: Atkinson Hall 1611 (Clarke Center Lab)
+* Friday: 9-10 AM
+* Location: either VROOM at CalIT2 or Basement of CSE building.
+
+## Office Hours
+* Wednesday: 12-2pm, Atkinson Hall 1611 (Clarke Center Lab)
   * enter on the ground floor, walk past the elevator, continue 
     past the design lab, follow the red floor all the way to the
     back, second to last door on the left.
