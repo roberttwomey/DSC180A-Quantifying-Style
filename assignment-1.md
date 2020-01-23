@@ -93,4 +93,4 @@ pipeline for the result-replication project. The pipeline should:
 -   The stored data should be in a form most appropriate for
     assessment and cleaning (EDA).
 
-NOTE: you need to use this data ingestion pipeline to gather a complete set of Mondrian's paintings. We need this complete set of images and metadata for our data cleaning and exploratory data analysis processes in Assignment 2.
+NOTE: you need to use this data ingestion pipeline to gather a complete set of Mondrian's paintings. We need this complete set of images and metadata for our data cleaning and exploratory data analysis processes in Assignment 2. You will need to work with this data for Discussion section activities due Week 5.
