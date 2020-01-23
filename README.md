@@ -2,6 +2,8 @@
 
 How can we use image analysis and visual feature extraction to meaningfully describe works of art?
 
+This is the Arts Domain track within the [Data Science Capstone (DSC180) for 2020](https://github.com/afraenkel/DSC180A-DS-Methodology).
+
 
 ## Schedule
 
