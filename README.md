@@ -68,8 +68,8 @@ cultural image production.
 |Fri Jan 24, 2020|	Lab | VROOM |
 |Wed Jan 29, 2020|	Discussion | Center 207 |
 |Fri Jan 31, 2020 | Lab | Basement CSE |
-|Wed Feb 5, 2020|	Discussion | Center 207 |
-|Fri Feb 7, 2020 | Lab | Basement CSE |
+|Wed Feb 5, 2020|	Discussion | VROOM |
+|Fri Feb 7, 2020 | Lab | VROOM |
 |Wed Feb 12, 2020| Discussion | VROOM |
 |Fri Feb 14, 2020| Lab | VROOM |
 |Wed Feb 19, 2020| Discussion | VROOM|
