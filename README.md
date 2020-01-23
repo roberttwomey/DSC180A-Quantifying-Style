@@ -59,5 +59,22 @@ cultural image production.
 ## Assignments
 * [Assignment 1 - The Data](assignment-1.md)  (Due Jan 24th, 11:59 PM)
 
-  
-   
+## Where are we meeting
+
+|Date|Type|Location|
+|--|--|-|
+|Fri Jan 24, 2020|	Lab | VROOM |
+|Wed Jan 29, 2020|	Discussion | Center 207 |
+|Fri Jan 31, 2020 | Lab | Basement CSE |
+|Wed Feb 5, 2020|	Discussion | Center 207 |
+|Fri Feb 7, 2020 | Lab | Basement CSE |
+|Wed Feb 12, 2020| Discussion | VROOM |
+|Fri Feb 14, 2020| Lab | VROOM |
+|Wed Feb 19, 2020| Discussion | VROOM|
+|Fri Feb 21, 2020| Lab | VROOM|
+|Wed Feb 26, 2020| Discussion | VROOM|
+|Fri Feb 28, 2020| Lab | VROOM
+|Wed Mar 4, 2020| Discussion | VROOM
+|Fri Mar 6, 2020| Lab | VROOM
+|Wed Mar 11, 2020| Discussion|	VROOM |
+
