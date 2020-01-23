@@ -66,7 +66,7 @@ cultural image production.
 |Date|Type|Location|
 |--|--|-|
 |Fri Jan 24, 2020|	Lab | VROOM |
-|Wed Jan 29, 2020|	Discussion | Center 207 |
+|Wed Jan 29, 2020|	Discussion | Clark Center Lab (Atkinson 1611) |
 |Fri Jan 31, 2020 | Lab | VROOM |
 |Wed Feb 5, 2020|	Discussion | VROOM |
 |Fri Feb 7, 2020 | Lab | VROOM |
