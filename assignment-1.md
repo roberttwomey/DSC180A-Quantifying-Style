@@ -94,3 +94,7 @@ pipeline for the result-replication project. The pipeline should:
     assessment and cleaning (EDA).
 
 NOTE: you need to use this data ingestion pipeline to gather a complete set of Mondrian's paintings. We need this complete set of images and metadata for our data cleaning and exploratory data analysis processes in Assignment 2. You will need to work with this data for Discussion section activities due Week 5.
+
+### Submit your work
+- Please submit your reports (Parts 1+2) to gradescope: https://www.gradescope.com/courses/82547/assignments/338648/
+- Code review (Part 3) will be conducted with Aaron in individual meetings. 
