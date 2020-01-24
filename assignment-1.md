@@ -97,5 +97,6 @@ NOTE: you need to use this data ingestion pipeline to gather a complete set of M
 
 ### Submit your work
 - Please submit your reports (Parts 1+2) to gradescope: https://www.gradescope.com/courses/82547/assignments/338648/
+  - Please include a URL to your repository with Parts 1 + 2 written report.
 - Please submit your code (Part 3) to gradescope: https://www.gradescope.com/courses/82547/assignments/338155/
 - Code review (Part 3) will be conducted with Aaron in individual meetings. 
