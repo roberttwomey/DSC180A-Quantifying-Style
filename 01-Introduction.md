@@ -1,9 +1,5 @@
 # Week 1: Introduction to Domain/Problem
 
-## Today's Slides
-
-[dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
-
 ## Topics
 How can we use image analysis and visual feature extraction to
   meaningfully describe works of art?
@@ -25,6 +21,10 @@ How can we use image analysis and visual feature extraction to
 * Extensions: How can we use these quantitative cultural analytic 
   methods to address diverse questions in diverse media, understanding
   how art is created and perceived?
+
+Today's Slides [dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
+
+## Homework
 
 ### Reading
 
@@ -52,10 +52,7 @@ quarter answering! These are merely to set context!
 
 ### Discussion Question Responses: 
 
+For Tuesday, 1/14 11:59pm, please submit your reponses to the following discussion questions online:
 [https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9)
 
-Due Tuesday 1/14, 11:59pm. 
-
 This will record your e-mail address for discussion participation grades.
-
-
