@@ -39,7 +39,7 @@ Continue with:
 Due to a due date mixup, we are continuing with [questions from last week](https://github.com/roberttwomey/DSC180A-Quantifying-Style/blob/master/02-Cultural_Analytics.md#discussion-questions) on Manovich articles.
 
 If things had gone according to plan, you would be answering these discussion questions about the collections and archives above (MOMA, Paris, SDMA, NGA, Mondrian Catalogue Raisonné): 
-* What kind of permissions do the above collections have? The images recently published by the Paris Musees, for instance, are Creative Commons 0 10 (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/
+* What kind of permissions do the above collections have? The images recently published by the Paris Musees, for instance, are Creative Commons 0 1.0 (CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/)
 * Given those permissions, what can we use these images for? Are you within rights to download them and run your own analyses? Can we use these images to make new figures, and publish those figures?
 * How complete are the above resources? What percentage of their total physical collections have these museums published/made available online?
 * What is the quality of the data available through each of these sources? (e.g. image resolution, thoroughness of metadata, quality of visual reproduction) How difficult/easy is it to scrape this data?
