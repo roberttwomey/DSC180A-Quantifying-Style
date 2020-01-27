@@ -2,6 +2,8 @@
 
 How can we use image analysis and visual feature extraction to meaningfully describe works of art?
 
+This is the Arts Domain track within the [Data Science Capstone (DSC180) for 2020](https://github.com/afraenkel/DSC180A-DS-Methodology).
+
 
 ## Schedule
 
@@ -19,9 +21,11 @@ How can we use image analysis and visual feature extraction to meaningfully desc
 |10|Elevator Pitch|
 
 ## Domain Hours (to replace Friday hours; begins wk 2)
-* Thurday: 10-11 AM
-* Another hour TBA
-* Location: Atkinson Hall 1611 (Clarke Center Lab)
+* Friday: 9-10 AM
+* Location: either VROOM at CalIT2 or Basement of CSE building.
+
+## Office Hours
+* Wednesday: 12-2pm, Atkinson Hall 1611 (Clarke Center Lab)
   * enter on the ground floor, walk past the elevator, continue 
     past the design lab, follow the red floor all the way to the
     back, second to last door on the left.
@@ -57,5 +61,23 @@ cultural image production.
 ## Assignments
 * [Assignment 1 - The Data](assignment-1.md)  (Due Jan 24th, 11:59 PM)
 
-  
-   
+## Where are we meeting
+
+|Date|Type|Location|
+|--|--|-|
+|Wed Jan 22, 2020|	Discussion | VROOM |
+|Fri Jan 24, 2020|	Lab | VROOM |
+|Wed Jan 29, 2020|	Discussion | VROOM |
+|Fri Jan 31, 2020 | Lab | VROOM |
+|Wed Feb 5, 2020|	Discussion | VROOM |
+|Fri Feb 7, 2020 | Lab | VROOM |
+|Wed Feb 12, 2020| Discussion | VROOM |
+|Fri Feb 14, 2020| Lab | VROOM |
+|Wed Feb 19, 2020| Discussion | VROOM|
+|Fri Feb 21, 2020| Lab | VROOM|
+|Wed Feb 26, 2020| Discussion | VROOM|
+|Fri Feb 28, 2020| Lab | VROOM
+|Wed Mar 4, 2020| Discussion | VROOM
+|Fri Mar 6, 2020| Lab | VROOM
+|Wed Mar 11, 2020| Discussion|	VROOM |
+
