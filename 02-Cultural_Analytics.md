@@ -6,7 +6,7 @@
 
 ### In Class Activities
 
-* Discussion of Mondrian and Rothko projects from Artnome and Manovich.
+* Discussion of your responses to the Mondrian and Rothko projects from Artnome and Manovich.
 
 ### Assigned Readings
 
