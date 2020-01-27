@@ -9,6 +9,8 @@
 ### In-Class Activities
 
 * Look at results of preliminary data analysis (brightness, hue, variance, edge score)
+  * Which images should we include in our analysis of style?
+  * What are the consequences of eliminating data from our replication?
 * Look at visualization (bokeh) and advanced features notebook.
 
 ## Assigned Readings
