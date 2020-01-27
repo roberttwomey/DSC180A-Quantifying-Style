@@ -19,6 +19,10 @@ For Week 4 Discussion:
 * Please look through the following image processing code examples: [basic-image-stats.ipynb](basic-image-stats.ipynb)
 * Use the above code example to create your own notebook
   * Load a single Mondrian image and compute resolution (pixel count), mean saturation, mean brightness.
-  * Compute per-row color variance
-  * Compute a histogram of resolutions from your scraped iamges.
+  * Compute the grayscale variance (Value in the HSV image) for your painting. 
+  * Compute the per-rown grayscale variance
+  * Approximate an "edge score"
+  * Implement all of the above as functions.
+* Data Cleaning
+  * plot a histogram of resolutions of your scraped images
 * Bring your jupyter notebook to class.
