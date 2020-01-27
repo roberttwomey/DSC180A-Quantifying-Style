@@ -22,7 +22,8 @@ How can we use image analysis and visual feature extraction to
   methods to address diverse questions in diverse media, understanding
   how art is created and perceived?
 
-Today's Slides [dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
+### Today's Slides
+[dsc180_quantifying_style_intro.pdf](dsc180_quantifying_style_intro.pdf)
 
 ## Homework
 
