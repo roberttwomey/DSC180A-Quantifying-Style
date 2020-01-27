@@ -51,7 +51,7 @@ How can we use image analysis and visual feature extraction to
 These questions approach topics that we will spend the majority of the
 quarter answering! These are merely to set context!
 
-### Discussion Question Responses: 
+### Discussion Responses: 
 
 For Tuesday, 1/14 11:59pm, please submit your reponses to the following discussion questions online:
 [https://forms.gle/KzW1kHsYrg7YzvPC9](https://forms.gle/KzW1kHsYrg7YzvPC9)
