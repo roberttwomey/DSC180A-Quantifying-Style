@@ -1,5 +1,13 @@
 # Week 3: Scraping Cultural Archives
 
+## Topics
+
+* Visual data exploration, visualization.
+
+### Discussion Activities
+
+* Introduction to VROOM display and visual data exploration.
+
 ## Assigned Readings
 
 Continue with:
@@ -15,10 +23,6 @@ Browse these recently released online cultural collections:
   * MOMA exhibitions: https://www.moma.org/calendar/exhibitions/history?_ga=1.80004629.342658158.1474529993en 
 * [San Diego Museum of Art](https://www.sdmart.org/collections/)
   * API?
-
-### Discussion Activities
-
-* Introduction to VROOM display and visual data exploration.
 
 ### Homework
 
