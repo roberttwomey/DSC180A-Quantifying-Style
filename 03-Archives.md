@@ -15,14 +15,15 @@
 Browse these online cultural collections:
 * Paris Musees
   * Online Collection: http://parismuseescollections.paris.fr/en
-  * Permissions? (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/
 * The Museum of Modern Art (MOMA)
   * Online Collection:https://www.moma.org/collection/
   * MOMA Exhibitions: https://www.moma.org/calendar/exhibitions/history?_ga=1.80004629.342658158.1474529993en
 * San Diego Museum of Art
-  * https://www.sdmart.org/collections/
+  * Collections: https://www.sdmart.org/collections/
 * The National Gallery of Art (NGA)
   * Online Collection: https://www.nga.gov/collection.html
+* Mondrian Catalogue Raisonné - available through RKD Monographs
+  * Catalogue Raisonné: http://pietmondrian.rkdmonographs.nl/
   
 Recent articles about online collections:
 * [Paris Museums Put 100000 Images online for Unrestricted Public Use](https://kottke.org/20/01/paris-museums-put-100000-images-online-for-unrestricted-public-use?fbclid=IwAR2PvXu2t8tF5c62R9TneZ83KW1klLtr9YjHQz8T7jddY-6AWFxGqlPjs5A)
@@ -35,6 +36,10 @@ Continue with:
 ### Discussion Questions
 
 Due to a due date mixup, we are continuing with [discussion questions from last week](https://github.com/roberttwomey/DSC180A-Quantifying-Style/blob/master/02-Cultural_Analytics.md#discussion-questions) on Manovich articles.
+
+Also, to think about collections (MOMA, Paris, SDMA, NGA, Mondrian Catalogue Raisonne): 
+* Of Permissions? (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/
+
 
 ### Discussion Responses
 
