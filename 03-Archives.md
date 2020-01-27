@@ -13,7 +13,7 @@
 
 ### Assigned Readings
 
-Browse these online cultural collections:
+Browse these online cultural collections (due date mixup, postponed to Week 4):
 * Paris Musees
   * Online Collection: http://parismuseescollections.paris.fr/en
 * The Museum of Modern Art (MOMA)
