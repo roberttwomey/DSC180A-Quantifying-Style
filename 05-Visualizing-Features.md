@@ -3,7 +3,6 @@
 ## Topics
 
 * Discuss basic image features; introduce higher-order image features; introduce clustering, dimensional reduction, visualization techniques; talk about issues of visualizing visual cultural analysis.
-* 
 
 ### In-Class Activities
 
