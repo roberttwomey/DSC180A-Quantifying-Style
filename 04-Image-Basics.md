@@ -8,6 +8,7 @@
 ### Discussion Activities
 
 * Discuss responses to Manovich / Cultural Analytics Articles
+* Look at image processing notebook.
 
 ### Homework
 
