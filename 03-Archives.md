@@ -16,18 +16,19 @@ Browse these online cultural collections:
 * Paris Musees
   * Online Collection: http://parismuseescollections.paris.fr/en
   * Permissions? (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/
-  * [Paris Museums Put 100000 Images online for Unrestricted Public Use](https://kottke.org/20/01/paris-museums-put-100000-images-online-for-unrestricted-public-use?fbclid=IwAR2PvXu2t8tF5c62R9TneZ83KW1klLtr9YjHQz8T7jddY-6AWFxGqlPjs5A)
 * The Museum of Modern Art (MOMA)
   * Online Collection:https://www.moma.org/collection/
   * MOMA Exhibitions: https://www.moma.org/calendar/exhibitions/history?_ga=1.80004629.342658158.1474529993en
-  * [You Can Now Explore Every MoMA Exhibit Since 1929 for Free Online](https://mymodernmet.com/museum-of-modern-art-exhibition-history/?fbclid=IwAR3LkAPAXmDJ4C9zJn6ujfmhh2zNp6GJL9ysHTMgoKPS5ARp8jx3EklaIUk)
 * San Diego Museum of Art
   * https://www.sdmart.org/collections/
 * The National Gallery of Art (NGA)
   * Online Collection: https://www.nga.gov/collection.html
   
-Continue with:
+Recent articles about online collections:
+* [Paris Museums Put 100000 Images online for Unrestricted Public Use](https://kottke.org/20/01/paris-museums-put-100000-images-online-for-unrestricted-public-use?fbclid=IwAR2PvXu2t8tF5c62R9TneZ83KW1klLtr9YjHQz8T7jddY-6AWFxGqlPjs5A)
+* [You Can Now Explore Every MoMA Exhibit Since 1929 for Free Online](https://mymodernmet.com/museum-of-modern-art-exhibition-history/?fbclid=IwAR3LkAPAXmDJ4C9zJn6ujfmhh2zNp6GJL9ysHTMgoKPS5ARp8jx3EklaIUk)
 
+Continue with:
 * [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf), Lev Manovich, 2015. 
 * [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015.
 
