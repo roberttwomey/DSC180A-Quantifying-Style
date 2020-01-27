@@ -4,11 +4,13 @@
 
 * Visual data exploration, visualization.
 
-### Discussion Activities
+### In-Class Activities
 
 * Introduction to VROOM display and visual data exploration.
 
-## Assigned Readings
+## Homework
+
+### Assigned Readings
 
 Continue with:
 
@@ -24,6 +26,10 @@ Browse these recently released online cultural collections:
 * [San Diego Museum of Art](https://www.sdmart.org/collections/)
   * API?
 
-### Homework
+### Discussion Questions
 
-For Tuesday 1/28 11:59pm, complete the [Discussion Quiz](https://github.com/roberttwomey/DSC180A-Quantifying-Style/blob/master/02-Cultural_Analytics.md#discussion-questions) on Manovich articles.
+Due to a due date mixup, we are continuing with [discussion questions from last week](https://github.com/roberttwomey/DSC180A-Quantifying-Style/blob/master/02-Cultural_Analytics.md#discussion-questions) on Manovich articles.
+
+### Discussion Responses
+
+For Tuesday, 1/28 at 11:59pm, please submit your answers to the discussion questions on this google form: [https://forms.gle/KutZTJnXWTYv1VFn9](https://forms.gle/KutZTJnXWTYv1VFn9)
