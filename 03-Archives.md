@@ -47,4 +47,4 @@ If things had gone according to plan, you would be answering these discussion qu
 
 ### Responses
 
-For Tuesday, 1/28 at 11:59pm, please submit your answers to the discussion questions on this google form: [https://forms.gle/KutZTJnXWTYv1VFn9](https://forms.gle/KutZTJnXWTYv1VFn9)
+For Tuesday, 1/28 at 11:59pm, please submit your responses to the Cultural Analytics reading questions: [https://forms.gle/KutZTJnXWTYv1VFn9](https://forms.gle/KutZTJnXWTYv1VFn9)
