@@ -12,11 +12,6 @@
 
 ### Assigned Readings
 
-Continue with:
-
-* [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf), Lev Manovich, 2015. 
-* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015.
-
 Browse these recently released online cultural collections:
 * [Paris Museums Put 100000 Images online for Unrestricted Public Use](https://kottke.org/20/01/paris-museums-put-100000-images-online-for-unrestricted-public-use?fbclid=IwAR2PvXu2t8tF5c62R9TneZ83KW1klLtr9YjHQz8T7jddY-6AWFxGqlPjs5A)
   * high res images: http://parismuseescollections.paris.fr/en
@@ -25,6 +20,11 @@ Browse these recently released online cultural collections:
   * MOMA exhibitions: https://www.moma.org/calendar/exhibitions/history?_ga=1.80004629.342658158.1474529993en 
 * [San Diego Museum of Art](https://www.sdmart.org/collections/)
   * API?
+  
+Continue with:
+
+* [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf), Lev Manovich, 2015. 
+* [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015.
 
 ### Discussion Questions
 
