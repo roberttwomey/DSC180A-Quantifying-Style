@@ -20,16 +20,16 @@ This is the Arts Domain track within the [Data Science Capstone (DSC180) for 202
 |9|Work on Proposals|
 |10|Elevator Pitch|
 
-## Domain Hours (to replace Friday hours; begins wk 2)
-* Friday: 9-10 AM
-* Location: either VROOM at CalIT2 or Basement of CSE building.
-
 ## Office Hours
 * Wednesday: 12-2pm, Atkinson Hall 1611 (Clarke Center Lab)
   * enter on the ground floor, walk past the elevator, continue 
     past the design lab, follow the red floor all the way to the
     back, second to last door on the left.
-    
+
+## Domain Hours
+* Friday: 9-10 AM
+* Location: VROOM, Atkinson Hall/CalIT2.
+
 ## Introduction
 
 * Tags: cultural analytics, artistic style, visual culture, quantifying culture
