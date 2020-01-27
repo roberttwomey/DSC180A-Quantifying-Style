@@ -2,18 +2,20 @@
 
 ## Topics
 
-* Thinking about images with numbers.
+* Thinking about images with numbers, the evolution of style in art.
 
 ### In Class Activities
 
 * Discussion of your responses to the Mondrian and Rothko projects from Artnome and Manovich.
+
+## Homework
 
 ### Assigned Readings
 
 * [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf), Lev Manovich, 2015. 
 * [Data Science and Computational Art History](http://manovich.net/content/04-projects/087-data-science/manovich_digital_art_history.pdf), Lev Manovich, 2015.
 
-### Homework
+### Discussion Questions
 
 For next week, please lease answer the discussion questions on this google form: [https://forms.gle/KutZTJnXWTYv1VFn9](https://forms.gle/KutZTJnXWTYv1VFn9)
 
