@@ -6,12 +6,13 @@
 
 ### In-Class Activities
 
-* Look at high res image plots (Manovich) on media commons.
 * Look at results of preliminary data analysis (brightness, hue, variance, edge score)
   * Which images should we include in our analysis of style?
   * What are the consequences of eliminating data from our replication?
+* Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
-* Look at dimensional reduction, clustering, and visualization notebook
+* Look at [bokeh.ipynb](bokeh notebook). 
+* Look at dimensional reduction, clustering, and visualization notebook (TK)
 
 ## Assigned Readings
 
