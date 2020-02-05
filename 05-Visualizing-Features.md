@@ -10,8 +10,8 @@
 * Look at results of preliminary data analysis (brightness, hue, variance, edge score)
   * Which images should we include in our analysis of style?
   * What are the consequences of eliminating data from our replication?
-* Look at clustering and visualization notebook
-* Look at advanced visual features notebook
+* What additional measures did Manovich or Bailey (artnome) employ?
+* Look at dimensional reduction, clustering, and visualization notebook
 
 ## Assigned Readings
 
