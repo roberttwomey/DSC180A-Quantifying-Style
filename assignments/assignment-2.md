@@ -26,22 +26,26 @@ questions to address include:
 	color and grayscale images. Can you quantitatively, automatically distinguish
 	between these two classes of images? If so, on the basis of what features?
 	- Images are stored at a variety of resolutions. What is a threshold/cutoff of
-	minimum resolutoin necessary to participate in this analysis? At what point 
-	does imagery become too indistinct to be of use in analysizing visual style?
-	- What portion of Mondrian's complete ouevre (complete works), as scraped, 
-	are viable for use in this analysis of the development of an abstract style?
+	minimum resolution necessary to participate in this analysis? At what point 
+	does imagery become too indistinct/low-information content to be of use in 
+	assessing visual style?
+	- Given these decisions, what portion of Mondrian's published catalogue 
+	raisonné should reasonably be included in your analysis of his stylistic
+	development.
 
 Describe your decisions about data inclusion and justify your choices.
 
 * (Descriptive Stats) Statistically summarize the relevant, cleaned attributes and 
 derived features (e.g. in univariate and bivariate analyses) for Mondrian's 
-paintings. This includes dates paintings were made, average hue, brightness, 
-saturation, and edge scores, and others. You can include interactive visualizations
-(bokeh) as part of these descriptive analyses.      
+paintings. This includes metadata about paintings (date made, size, medium),
+average hue, brightness, saturation, and edge scores, and others. You can include
+interactive visualizations (bokeh) as part of these descriptive analyses of the 
+features of the images and the population as a whole.      
 
 * (Working with Manovich Style-Space Plots) Calculate and plot the distribution of
 Mondrian paintings in a variety of style spaces following Manovich's methods. 
-The analysis should describe the tradeoffs in choice of visual features. For instance:
+The analysis should describe the tradeoffs with respect to choice of visual features. 
+For instance:
     - Plot single measures vs. time. Can you generalize about a trajectory of visual 
     evolution in Mondrian's work?
     - Plot simple bivariate relationships (brightness vs. hue, brightness vs. saturation,
@@ -50,9 +54,11 @@ The analysis should describe the tradeoffs in choice of visual features. For ins
     - Consider multiple features at once (n>2) as high-dimensional descriptors of
     Mondrian's paintings. Use PCA or UMAP or t-SNE to plot these high dimensional features
     on 2d graphs.
-       - Can you identify distinct clusterers of work in this high dimensional feature
+        - Can you identify distinct clusterers of work in this high dimensional feature
        space? (Use k-means, affinitey clustering, or another technique to cluster)
        - If so, what is the signifcance of these clusters?
+    - Which combinations of features, approaches, techniques are most appropriate for
+    analyzing an evolution of abstraction.
 
 * (Abstraction Score) Perform the artnome (Jason Bailey's) abstraction analysis
   (based on complexity score) on your downloaded and cleaned data of Mondrian's
