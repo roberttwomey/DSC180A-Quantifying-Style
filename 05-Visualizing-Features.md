@@ -11,7 +11,7 @@
   * What are the consequences of eliminating data from our replication?
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
-* Look at the [bokeh notebook](notebooks/bokeh.ipynb)
+* Look at the bokeh notebook ([bokeh.ipynb](notebooks/bokeh.ipynb))
 * Look at dimensional reduction, clustering, and visualization notebook (TK)
 
 ## Assigned Readings
