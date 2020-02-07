@@ -32,4 +32,4 @@ Please look through the following image processing code examples: [basic-image-s
 * EDA to assess the full set of images:
   * Plot histograms of the above stats (resolution, mean brightness, mean saturation, average per-row grayscale variance, and edge score) across your set of scraped images. 
   
-Bring your jupyter notebook to class for Wed 2/5 Discussion.
+Bring your jupyter notebook to class for Wed 2/5 Discussion and submit a link / pdf to this form: https://forms.gle/BRNCTtvF6F8mgy7dA
