@@ -1,4 +1,4 @@
-# Week 5: Feature Extractors, Clustering, Visualization- Domain Specific Techniques II
+# Week 5: Visualization, Clustering, Dimensional Reduction - Domain Specific Techniques II
 
 ## Topics
 
@@ -11,7 +11,7 @@
   * What are the consequences of eliminating data from our replication?
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
-* Look at [bokeh notebook](bokeh.ipynb)
+* Look at the [bokeh notebook](notebooks/bokeh.ipynb)
 * Look at dimensional reduction, clustering, and visualization notebook (TK)
 
 ## Assigned Readings
