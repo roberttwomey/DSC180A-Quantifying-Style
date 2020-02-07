@@ -13,7 +13,7 @@ This is the Arts Domain track within the [Data Science Capstone (DSC180) for 202
 |2|[Cultural Analytics - Background and Data](02-Cultural_Analytics.md)|
 |3|[Scraping Cultural Archives - Domain Background and Data II](03-Archives.md)|
 |4|[Basics of Image Analysis - Domain Specific Technique](04-Image-Basics.md)|
-|5|[Feature Extractors, Clustering, Visualization- Domain Specific Techniques II](05-Visualizing-Features.md)|
+|5|[Visualization, Clustering, Dimensional Reduction - Domain Specific Techniques II](05-Visualizing-Features.md)|
 |6|Evolution of Abstraction in Mondrian - Discussion of Main Result|
 |7|Evaluation of Main Result|
 |8|Impacts and Ethics|
