@@ -20,7 +20,7 @@ The basic metrics we will implement were discussed in these readings:
 
 ### Homework
 
-Please look through the following image processing code examples: [basic-image-stats.ipynb](basic-image-stats.ipynb) and then create your own notebook to attempt the following: 
+Please look through the following image processing code examples: [basic-image-stats.ipynb](notebooks/basic-image-stats.ipynb) and then create your own notebook to attempt the following: 
 
 * Load a single Mondrian image
   * Compute resolution (pixel count), mean saturation, mean brightness.
