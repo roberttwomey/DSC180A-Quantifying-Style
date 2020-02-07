@@ -34,4 +34,4 @@ Please look through the following clustering/visualization and advanced visual f
   * Plot a > 2 dimensional feature space on a 2d plane using PCA, UMAP, t-SNE or some other dimensional reduction technique.
 * Replicate the above as static high-res image outputs where we plot each point as an image rendered to the canvas, rather than a point on a scatter plot.
 
-Bring your jupyter notebooks and rendered results to class for Wed 2/12 Discussion.
+Bring your jupyter notebooks and rendered results to class for Wed 2/12 Discussion and upload a link/pdf here https://forms.gle/ro7dLqYHjixHtC9BA.
