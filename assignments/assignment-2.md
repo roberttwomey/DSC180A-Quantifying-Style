@@ -20,7 +20,7 @@ color depth (rgb vs. grayscale), as well as distinguishing between the different
 classes of images found in the catalogue raisonneé (paintings and drawings) so that
 you only use the images most relevant to an quantitative analysis of visual style.
 Tie these issues to their possible impact on eventual results. Some possible 
-questions include: 
+questions to address include: 
 
 	- The catalogue raisonneé contains images of paintings and drawings, stored as
 	color and grayscale images. Can you quantitatively, automatically distinguish
@@ -28,6 +28,8 @@ questions include:
 	- Images are stored at a variety of resolutions. What is a threshold/cutoff of
 	minimum resolutoin necessary to participate in this analysis? At what point 
 	does imagery become too indistinct to be of use in analysizing visual style?
+	- What portion of Mondrian's complete ouevre (complete works), as scraped, 
+	are viable for use in this analysis of the development of an abstract style?
 
 Describe your decisions about data inclusion and justify your choices.
 
