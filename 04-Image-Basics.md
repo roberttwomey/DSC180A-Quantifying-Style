@@ -27,6 +27,7 @@ Please look through the following image processing code examples: [basic-image-s
   * Compute the grayscale variance (Value in the HSV image) for your painting. 
     * Compute the per-row grayscale variance, and average per-row.
   * Approximate an "edge score"
+    * read more about the Sobel filter [here](https://en.wikipedia.org/wiki/Sobel_operator)
   * Implement all of the above as functions, you can use these later.
 * EDA to assess the full set of images:
   * Plot histograms of the above stats (resolution, mean brightness, mean saturation, average per-row grayscale variance, and edge score) across your set of scraped images. 
