@@ -41,17 +41,25 @@ saturation, and edge scores, and others. You can include interactive visualizati
 
 * (Working with Manovich Style-Space Plots) Calculate and plot the distribution of
 Mondrian paintings in a variety of style spaces following Manovich's methods. 
-The analysis should describe the tradeoffs in choice of visual features. 
-Additionally:
-    - Can you generalize about trajectory over time? 
-    - Can you identify distinct clusteres of distinct types of work based on visual
-     features? 
+The analysis should describe the tradeoffs in choice of visual features. For instance:
+    - Plot single measures vs. time. Can you generalize about a trajectory of visual 
+    evolution in Mondrian's work?
+    - Plot simple bivariate relationships (brightness vs. hue, brightness vs. saturation,
+    edge score vs. saturation, etc.) and describe what relationships we can see in these
+    plots. 
+    - Consider multiple features at once (n>2) as high-dimensional descriptors of
+    Mondrian's paintings. Use PCA or UMAP or t-SNE to plot these high dimensional features
+    on 2d graphs.
+       - Can you identify distinct clusterers of work in this high dimensional feature
+       space? (Use k-means, affinitey clustering, or another technique to cluster)
+       - If so, what is the signifcance of these clusters?
 
 * (Abstraction Score) Perform the artnome (Jason Bailey's) abstraction analysis
   (based on complexity score) on your downloaded and cleaned data of Mondrian's
   paintings. Include an introduction to the technique and interpret the results.
   (In Assignment #3 you will carefully address the shortcoming of this result.)
   	- Compare your work to the publish results on artnome via visual comparison.
+	- Analyzed where your workflow may have departed from Jason Bailey's.
 
 ### Part 2
 
