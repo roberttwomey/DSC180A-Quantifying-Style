@@ -60,7 +60,7 @@ cultural image production.
 
 ## Assignments
 * [Assignment 1 - The Data](assignments/assignment-1.md)  (Due Jan 24th, 11:59 PM)
-* [Assignment 2 - Cleaning and EDA](assignments/assignment-2.md)  (Due Feb 14th, 11:39pm)
+* [Assignment 2 - Cleaning and EDA](assignments/assignment-2.md)  (Due Feb 16th, 11:59pm)
 
 ## Where are we meeting
 
