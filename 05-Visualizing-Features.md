@@ -1,4 +1,4 @@
-# Week 5: Visualization, Dimensional Reduction, Clustering - Domain Specific Techniques II
+# Week 5: Visualization - Domain Specific Techniques II
 
 ## Topics
 
@@ -12,8 +12,6 @@
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
 * Look at the bokeh notebook ([bokeh.ipynb](notebooks/bokeh.ipynb))
-* Look at dimensional reduction, and visualization notebook ([dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb))
-* Apply what you know of clustering.
 
 ## Assigned Readings
 
@@ -21,8 +19,6 @@ The basic metrics we will implement were discussed in these readings:
 * [Quantifying Abstraction In Art: Mondrian](https://www.artnome.com/news/2018/4/11/quantifying-modrian-journey-to-abstraction), Jason Bailey, Artnome, 2018,  
 * [Mondrian vs Rothko: footprints and evolution in style space](http://lab.softwarestudies.com/2011/06/mondrian-vs-rothko-footprints-and.html), Lev Manovich et. al, Software Studies Lab, 2011
 * [Reply to Mondrian vs Rothko: footprints and evolution in style space](https://web.archive.org/web/20120717071426/http://iwasnteventhere.tumblr.com/post/7882377942/reply-to-mondrian-vs-rothko-footprints-and-evolution), Ryan Anderson, Tumblr via wayback machine, 2012.
-
-Additional readings TK.
 
 ### Homework
 
