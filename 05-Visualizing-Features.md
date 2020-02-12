@@ -12,7 +12,7 @@
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
 * Look at the bokeh notebook ([bokeh.ipynb](notebooks/bokeh.ipynb))
-* Look at dimensional reduction, clustering, and visualization notebook [dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb)
+* Look at dimensional reduction, clustering, and visualization notebook ([dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb))
 
 ## Assigned Readings
 
