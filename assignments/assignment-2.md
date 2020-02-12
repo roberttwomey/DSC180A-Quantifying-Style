@@ -58,7 +58,7 @@ For instance:
        space? (Use k-means, affinitey clustering, or another technique to cluster)
        - If so, what is the signifcance of these clusters?
     - Which combinations of features, approaches, techniques are most appropriate for
-    analyzing an evolution of abstraction.
+    analyzing an evolution of abstraction?
 
 * (Abstraction Score) Perform the artnome (Jason Bailey's) abstraction analysis
   (based on complexity score) on your downloaded and cleaned data of Mondrian's
