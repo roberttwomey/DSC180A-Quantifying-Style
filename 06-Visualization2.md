@@ -6,11 +6,9 @@
 
 ### In-Class Activities
 
-* Look at results of preliminary data analysis (brightness, hue, variance, edge score)
-  * Which images should we include in our analysis of style?
-  * What are the consequences of eliminating data from our replication?
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
+* Look at the dimensional reduction notebook ([dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb))
 * Discuss clustering.
 
 ## Assigned Readings
