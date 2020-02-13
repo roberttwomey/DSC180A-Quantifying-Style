@@ -8,7 +8,7 @@
 
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
-* Look at the dimensional reduction notebook ([dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb))
+* Look at the dimensional reduction notebook ([dimensional-reduction.ipynb](notebooks/dimensional-reduction.ipynb))
 * Discuss clustering.
 
 ## Assigned Readings
