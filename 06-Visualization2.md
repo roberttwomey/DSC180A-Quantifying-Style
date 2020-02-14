@@ -8,7 +8,7 @@
 
 * Look at high res image plots (Manovich) on media commons.
 * What additional measures did Manovich or Bailey (artnome) employ?
-* Look at the dimensional reduction notebook ([dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb))
+* Look at the dimensional reduction notebook ([dimensional-reduction.ipynb](notebooks/dimensional-reduction.ipynb))
 * Discuss clustering.
 
 ## Assigned Readings
@@ -25,7 +25,7 @@ Dimensional Reduction Techniques:
 
 ### Homework
 
-Using the clustering/visualization and advanced visual features code examples [dimensional_reduction.ipynb](notebooks/dimensional_reduction.ipynb), complete the discussion activity from next week:
+Using the clustering/visualization and advanced visual features code examples [dimensional-reduction.ipynb](notebooks/dimensional-reduction.ipynb), complete the discussion activity from next week:
 
 * Replicate some Manovich Rothko v. Mondrian plots that incorporate Bokeh tooltips to preview images when you hover: 
   * Create a mean brightness vs. mean saturation plot
