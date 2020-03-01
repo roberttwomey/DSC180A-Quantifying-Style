@@ -18,4 +18,4 @@ Form your groups and fill in google doc below with rough sense of your project t
 
 ### Homework
 
-Fill in this google doc with group members and project ideas: [https://docs.google.com/document/d/18bA3EgYYvvWSwJ-Gb_ZGPogUeapOxyq0qWQstSRscGw/edit?usp=sharing](Quantifying Style - Project Groups)
+Fill in this google doc with group members and project ideas: [Quantifying Style - Project Groups](https://docs.google.com/document/d/18bA3EgYYvvWSwJ-Gb_ZGPogUeapOxyq0qWQstSRscGw/edit?usp=sharing)
