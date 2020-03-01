@@ -16,7 +16,7 @@ This is the Arts Domain track within the [Data Science Capstone (DSC180) for 202
 |5|[Visualization - Domain Specific Techniques II](05-Visualizing-Features.md)|
 |6|[Visualization cont., Dimensional Reduction - Techniques III](06-Visualization2.md)|
 |7|Discussion and Evaluation of Main Result|
-|8|Impacts and Ethics|
+|8|[Discuss Projects](08-Projects-1.md)|
 |9|Work on Proposals|
 |10|Elevator Pitch|
 
