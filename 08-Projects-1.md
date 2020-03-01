@@ -12,7 +12,9 @@
 
 ## Assigned Readings
 
-None
+Explore the CNNs as feature extractor notebook: [/notebooks/cnn_feature_extractor.ipynb](cnn_feature_extractor.ipynb)
+
+Form your groups and fill in google doc below with rough sense of your project theme.
 
 ### Homework
 
