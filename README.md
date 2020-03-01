@@ -61,10 +61,12 @@ cultural image production.
 ## Assignments
 * [Assignment 1 - The Data](assignments/assignment-1.md)  (Due Jan 24th, 11:59 PM)
 * [Assignment 2 - Cleaning and EDA](assignments/assignment-2.md)  (Due Feb 16th, 11:59pm)
+* [Assignment 3 - Replication](assignments/assignment-3.md)  (Due March 14, 11:59pm)
 * [Project Proposal Assignment](https://github.com/afraenkel/DSC180A-DS-Methodology/blob/master/assignments/assignment-project-proposal.md)  (Multiple due dates)
   * Forming Groups and Choosing a Theme (Due Wed. Feb 26)
   * Proposal (Due Sunday Mar 8)
   * Elevator Pitch (Due Wed Mar 11)
+
 
 ## Where are we meeting
 
