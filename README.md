@@ -9,15 +9,15 @@ This is the Arts Domain track within the [Data Science Capstone (DSC180) for 202
 
 |Week|Topic|
 |--|--|
-|1|[Introduction](01-Introduction.md)|
-|2|[Cultural Analytics - Background and Data](02-Cultural_Analytics.md)|
-|3|[Scraping Cultural Archives - Domain Background and Data II](03-Archives.md)|
-|4|[Basics of Image Analysis - Domain Specific Technique](04-Image-Basics.md)|
-|5|[Visualization - Domain Specific Techniques II](05-Visualizing-Features.md)|
-|6|[Visualization cont., Dimensional Reduction - Techniques III](06-Visualization2.md)|
+|1|[Introduction](classes/01-Introduction.md)|
+|2|[Cultural Analytics - Background and Data](classes/02-Cultural_Analytics.md)|
+|3|[Scraping Cultural Archives - Domain Background and Data II](classes/03-Archives.md)|
+|4|[Basics of Image Analysis - Domain Specific Technique](classes/04-Image-Basics.md)|
+|5|[Visualization - Domain Specific Techniques II](classes/05-Visualizing-Features.md)|
+|6|[Visualization cont., Dimensional Reduction - Techniques III](classes/06-Visualization2.md)|
 |7|Discussion and Evaluation of Main Result|
-|8|[Discuss Projects](08-Projects-1.md)|
-|9|[Work on Proposals](09-Projects-2.md)|
+|8|[Discuss Projects](classes/08-Projects-1.md)|
+|9|[Work on Proposals](classes/09-Projects-2.md)|
 |10|Elevator Pitch|
 
 ## Office Hours
