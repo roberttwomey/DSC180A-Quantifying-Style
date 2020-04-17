@@ -4,6 +4,25 @@ How can we use image analysis and visual feature extraction to meaningfully desc
 
 This is the Arts Domain track within the [Data Science Capstone (DSC180) for 2020](https://github.com/afraenkel/DSC180A-DS-Methodology).
 
+## Introduction
+
+* Tags: cultural analytics, artistic style, visual culture, quantifying culture
+* Data: works of art! for instance the complete works of Mondrian(catalogue raisonne), digital images, bibliographic data
+* Methods: image processing, feature extraction, clustering, visualization
+
+Art works are often described in terms of distinct phases clustering 
+thematic and aesthetic approaches (for instance Picasso’s Blue Period), 
+and art historians narrate the evolution of individual style (for 
+instance Mondrian’s passage from representational landscapes to pure 
+abstraction) to describe conceptual advancement in the field. 
+Additionally, contemporary image processing and computer vision 
+techniques provide a wealth of newly-available features describing
+the content of images. Taking art as data, how can we use these 
+feature extraction and analytic techniques to meaningfully describe,
+quantify, and draw conclusions about the content of art works? 
+This project starts with the analysis of historical works of fine 
+art, with potential extension to broad categories of contemporary 
+cultural image production. 
 
 ## Schedule
 
@@ -29,26 +48,6 @@ This is the Arts Domain track within the [Data Science Capstone (DSC180) for 202
 ## Domain Hours
 * Friday: 9-10 AM
 * Location: VROOM, Atkinson Hall/CalIT2.
-
-## Introduction
-
-* Tags: cultural analytics, artistic style, visual culture, quantifying culture
-* Data: works of art! for instance the complete works of Mondrian(catalogue raisonne), digital images, bibliographic data
-* Methods: image processing, feature extraction, clustering, visualization
-
-Art works are often described in terms of distinct phases clustering 
-thematic and aesthetic approaches (for instance Picasso’s Blue Period), 
-and art historians narrate the evolution of individual style (for 
-instance Mondrian’s passage from representational landscapes to pure 
-abstraction) to describe conceptual advancement in the field. 
-Additionally, contemporary image processing and computer vision 
-techniques provide a wealth of newly-available features describing
-the content of images. Taking art as data, how can we use these 
-feature extraction and analytic techniques to meaningfully describe,
-quantify, and draw conclusions about the content of art works? 
-This project starts with the analysis of historical works of fine 
-art, with potential extension to broad categories of contemporary 
-cultural image production. 
 
 
 ## Data
